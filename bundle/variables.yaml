@@ -1,0 +1,4 @@
+variables:
+- team: cloudbees-ci-sre
+- admin-user: radhikaramakrishnan1208-admin
+- manager-user: radhikaramakrishnan1208
